@@ -1,2 +1,2 @@
 # dexSwap
-uploading files before they are f*
+a simple frontend mockup with currency conversion functionality
